@@ -8,9 +8,7 @@ html,body{
     height:100%; /*always have to write*/
 }
 
-h1{
-    color:brown;
-}
+
 
 #main{
     height: 100%;  /*good method of writing code that's why everyhting is inside main"*/
