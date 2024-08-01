@@ -32,12 +32,28 @@ html,body{
 }
 
 #circle{
-    background-color:aqua ;
     border-radius:50%;
 }
 
 #diamond{
     rotate: 45deg;
     margin-top: 50px;
+
+}
+
+#diamond:hover{
+
+    background-color: brown;
+    
+
+}
+
+#circle:hover{
+    background-color: blue;
+
+}
+
+#square:hover{
+    background-color: yellow;
 
 }
