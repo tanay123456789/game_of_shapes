@@ -35,3 +35,9 @@ html,body{
     background-color:aqua ;
     border-radius:50%;
 }
+
+#diamond{
+    rotate: 45deg;
+    margin-top: 50px;
+
+}
